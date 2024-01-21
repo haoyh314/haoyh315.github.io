@@ -1,10 +1,10 @@
 # Site settings
-title: 林深见芷露
-SEOTitle: 林芷露 - 我的最爱
+title: skpx
+SEOTitle: i am nobody
 header-img: img/post-bg-desk.jpg
 email: haoyh314@outlook.com
-description: "愿这样勤奋的你有一个明亮的未来，有一个非常好的人在未来等你。"
-keyword: "人工语言, 国际语, 世界语, 三叶草国际语, 三叶语"
+description: "what can i say"
+keyword: "博客, 杂谈, 总结"
 url: "https://haoyh314.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/haoyh314/haoyh314.github.io.git" # you code repository
